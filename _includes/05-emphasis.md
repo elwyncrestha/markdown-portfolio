@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I started my programming career with **C programming Language**.\
+Then I switched into _OOP_.\
+__*That's all for now*__
